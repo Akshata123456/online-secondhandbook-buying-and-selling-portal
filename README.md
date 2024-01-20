@@ -13,7 +13,7 @@ Useful in school libraries and college libraries.
 Conclusion:-
 There  is no time barriers in selling the product . One can log on the internet even at midnight and can buy product at single click of  mouse. An interactive user friendly and focused website in the form of online shop can generate good business so we are of the opinion that big companies should invest more on research and development for second hand books.
 
-![image](https://github.com/Akshata123456/online-secondhandbook-buying-and-selling-portal/assets/67383475/74372573-4c6a-4da1-9d28-0e42d6703263)
+
 ![image](https://github.com/Akshata123456/online-secondhandbook-buying-and-selling-portal/assets/67383475/defd6fca-1fae-4f50-ae61-94f6019d3ae8)
 ![image](https://github.com/Akshata123456/online-secondhandbook-buying-and-selling-portal/assets/67383475/0fd2ed2b-889c-4789-bff0-5fce63b62139)
 ![image](https://github.com/Akshata123456/online-secondhandbook-buying-and-selling-portal/assets/67383475/a1ef0190-620c-4469-a45e-44110d9ae20b)
