@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #E7F3FF;
+    border: none;
+}
+
+#success {
+    margin-left: 200px;
+    height: 500px;
+    width: 500px;
+}
+
+#suc_img {
+    height: 500px;
+    width: 700px;
+    margin-left: 100px;
+}
+
+#suc_head {
+    margin-left: 380px;
+    font-size: 50px;
+}
+
+#suc_sub {
+    margin-left: 380px;
+    height: 20px;
+    font-size: 30px;
+}
+
+#suc_sub_bt {
+    background-color: lightgreen;
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+}
